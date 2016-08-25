@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Eyas profile</title>
+	<script src="js/fetch.js"></script>
+	<script src="js/marked.min.js"></script>
+</head>
+<body>
+	<div id="content"></div>
+	<script>
+		fetch('/README.md')
+		.then(res => res.text())
+		.then(text => {
+			var content = document.getElementById('content');
+			content.innerHTML = marked(text)
+		})
+	</script>
+</body>
+</html>
