@@ -10,8 +10,8 @@
 	<div id="content"></div>
 	<script>
 		fetch('/README.md')
-		.then(res => res.text())
-		.then(text => {
+		.then(function(res){ return res.text() })
+		.then(function(text){
 			var content = document.getElementById('content');
 			content.innerHTML = marked(text)
 		})
