@@ -3,51 +3,31 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Eyas profile</title>
+	<link rel="stylesheet" href="css/style.css">
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 	<script src="js/fetch.min.js"></script>
 	<script src="js/marked.min.js"></script>
+	<script src="js/app.js"></script>
 </head>
 <body>
-	<div class="header">
+	<div id="header" style="background-image: url(http://lorempixel.com/1024/768/technics/);">
 		<div class="inner">
 			<div class="avatar">
 				<img src="https://avatars0.githubusercontent.com/u/4774683?v=3&s=460" alt="Eyas Liu" />
 			</div>
-			<div class="title">
-				刘月松 [Liu Yuesong]
-			</div>
-			<div class="desc">
+			<h1 class="title">
+				刘月松
+			</h1>
+			<h2 class="desc">
 				<p>前端开发工程师</p>
-			</div>
+			</h2>
 			<div class="view-detail">
-				<a href="#">查看详情</a>
+				<a href="#content">查看详情</a>
 			</div>
 		</div>
 	</div>
 	<div class="main">
-		<div id="content"></div>
+		<div id="content" class="markdown-body"></div>
 	</div>
-	<footer class="footer">
-		<div class="inner">
-			<div class="contact">
-				<div class="title">
-					Contact me
-				</div>
-				<div class="desc">
-					你可以通过邮箱联系我 
-				</div>
-				<div class="email">
-					liuyuesongde@163.com
-				</div>
-			</div>
-		</div>
-	</footer>
-	<script>
-		fetch('/README.md')
-		.then(function(res){ return res.text() })
-		.then(function(text){
-			var content = document.getElementById('content');
-			content.innerHTML = marked(text)
-		})
-	</script>
 </body>
 </html>
