@@ -1,6 +1,6 @@
 # 关于本站点
 
-本网站托管于 github page, 内容来源于 github 仓库 `README.md` 的 markdown 语法源代码，有工具 `marked` 渲染为 html，显示到本页面
+本网站托管于 github page, 内容来源于 github 仓库 [`README.md`](https://github.com/eyasliu/profile/blob/gh-pages/README.md) 的 markdown 语法源代码，由工具 [`marked`](https://github.com/chjj/marked) 渲染为 html，显示到本页面
 
 源码：https://github.com/eyasliu/profile
 
@@ -20,7 +20,7 @@
 
 # 工作经历
 
- - 2013/11 - 2015/2 广州环亚信息科技有点公司 **全栈网站程序员**
+ - 2013/11 - 2015/2 广州市环亚信息科技有限公司 **全栈网站程序员**
  - 2015/3 - 2016/6 [FMC](http://www.fmces.com) **高级前端工程师**
  - 2016/7 - 至今 [金山软件[Kingsoft Office]](http://www.wps.cn/) **WPS Office 前端开发工程师**
 
@@ -60,10 +60,10 @@
 
 # 关于外包
 
-本人根据自身技术，长期承接如下外包项目
+__本人根据自身技术，长期承接如下外包项目：__
 
-- wordpress 主题开发：整站开发必须提供页面设计稿，模板二次开发需提供需求文档
-- wordpress 插件开发：可定制开发与二次开发
+- wordpress 主题开发：整站开发需提供页面设计稿，模板二次开发需提供需求文档
+- wordpress 插件开发：定制开发 或者 二次开发
 - wordpress 系统优化：性能优化，前台代码与样式优化，后台界面优化
 - 前端应用开发：基于 jQuery、React、Angular 等中小型应用开发
 - 前端页面编写：根据设计稿编写出规范的html页面
