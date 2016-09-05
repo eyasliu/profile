@@ -472,16 +472,20 @@ body{
 	border: 1px solid #fff;
 	color: #fff;
 	width: 200px;
-	height: 50px;
-	line-height: 50px;
+	height: 35px;
+	line-height: 35px;
 	text-decoration: none;
 	transition: all 500ms;
-  font-size: 18px;
+  font-size: 16px;
+}
+#header .view-detail {
+  width: 100%;
+  margin-top: 50px;
 }
 #header .view-detail a:hover{
 	background: #fff;
 	color: #555;
-  font-size: 20px;
+  font-size: 17px;
 }
 
 /* main */
