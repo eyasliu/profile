@@ -1,6 +1,8 @@
-# 自我评估
+# 关于本站点
 
-说了那么多废话，其实我就是想接外包罢了
+本网站托管于 github page, 内容来源于 github 仓库 `README.md` 的 markdown 语法源代码，有工具 `marked` 渲染为 html，显示到本页面
+
+本站点是一份个人简历，介绍自身能力，说了那么多废话，其实我就是想接外包罢了
 
  - wordpress 主题开发
  - wordpress 插件开发
