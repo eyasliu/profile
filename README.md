@@ -27,7 +27,7 @@
 # 开源项目
 
  - [github blog](https://github.com/eyasliu/eyasliu.github.io) : 基于 github page, github api, github issues等纯 github 服务搭建的博客系统
- - [redux-create-reducer](https://github.com/eyasliu/redux-create-reducer) [![NPM Version](https://img.shields.io/npm/v/redux-create-reducer.svg?style=flat)](https://www.npmjs.org/package/redux-create-reducer) 优雅的创建 redux reducer
+ - [redux-create-reducer-curry](https://github.com/eyasliu/redux-create-reducer-curry) [![NPM Version](https://img.shields.io/npm/v/redux-create-reducer-curry.svg?style=flat)](https://www.npmjs.org/package/redux-create-reducer) 优雅的创建 redux reducer
  - [redux-bind-action-groups](https://github.com/eyasliu/redux-bind-action-groups) [![NPM Version](https://img.shields.io/npm/v/redux-bind-action-groups.svg?style=flat)](https://www.npmjs.org/package/redux-bind-action-groups) 绑定 redux 的 action creators
  - [startkit-app](https://github.com/eyasliu/startkit-app) : react + webpack + redux + babel 开发环境骨架
 
