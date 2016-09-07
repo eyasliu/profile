@@ -30,6 +30,7 @@
  - [redux-create-reducer-curry](https://github.com/eyasliu/redux-create-reducer-curry) [![NPM Version](https://img.shields.io/npm/v/redux-create-reducer-curry.svg?style=flat)](https://www.npmjs.org/package/redux-create-reducer) 优雅的创建 redux reducer
  - [redux-bind-action-groups](https://github.com/eyasliu/redux-bind-action-groups) [![NPM Version](https://img.shields.io/npm/v/redux-bind-action-groups.svg?style=flat)](https://www.npmjs.org/package/redux-bind-action-groups) 绑定 redux 的 action creators
  - [startkit-app](https://github.com/eyasliu/startkit-app) : react + webpack + redux + babel 开发环境骨架
+ - [Sim Blog](https://github.com/eyasliu/sim_blog) 一个极其简洁的wordpress主题
 
 # 技术文章
 
