@@ -30,6 +30,9 @@
  - [redux-create-reducer-curry](https://github.com/eyasliu/redux-create-reducer-curry) [![NPM Version](https://img.shields.io/npm/v/redux-create-reducer-curry.svg?style=flat)](https://www.npmjs.org/package/redux-create-reducer) 优雅的创建 redux reducer
  - [redux-bind-action-groups](https://github.com/eyasliu/redux-bind-action-groups) [![NPM Version](https://img.shields.io/npm/v/redux-bind-action-groups.svg?style=flat)](https://www.npmjs.org/package/redux-bind-action-groups) 绑定 redux 的 action creators
  - [startkit-app](https://github.com/eyasliu/startkit-app) : react + webpack + redux + babel 开发环境骨架
+ - [微信小程序Redux绑定库](https://github.com/eyasliu/wechat-weapp-redux)：在微信小程序使用 redux
+ - [微信小程序：音乐播放器](https://github.com/eyasliu/wechat-app-music)： 微信小程序demo
+ - [微信小程序：博客](https://github.com/eyasliu/wechat-app-github-blog)：根据 github issue 建立的博客
 
 # 技术文章
 
@@ -44,6 +47,7 @@
  - wordpress - [90%] 精通 主题开发， 插件定制
  - javascript - [95%] 
     * 精通 js原生应用开发
+    * 精通 __微信小程序设计与开发__
     * 精通 React、Bootstrap 等框架快速开发
     * 精通 jQuery DOM编程
     * 熟练 使用 underscore/lodash 函数式编程
@@ -68,3 +72,4 @@ __本人根据自身技术，长期承接如下外包项目：__
 - 前端应用开发：基于 jQuery、React、Angular 等中小型应用开发
 - 前端页面编写：根据设计稿编写出规范的html页面
 - nodejs 后端开发
+- 微信小程序开发与设计
